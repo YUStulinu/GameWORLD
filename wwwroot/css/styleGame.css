@@ -1,0 +1,186 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+li, a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(15, 14, 14);
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+.logo {
+    width: 200px;
+    cursor: pointer;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a:hover {
+    color: rgb(180, 180, 180)
+}
+
+.nav_links {
+    padding: 10px 25px;
+    background-color: rgb(0, 119, 255);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+button {
+    padding: 9px 10px;
+    background-color: rgb(4, 4, 4);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    font-size: 15px;
+    line-height: 2em;
+    margin-bottom: 32px;
+}
+
+hr {
+    width: 100%;
+    color: black;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.IconImage {
+    width: 30px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.ShoppingBagIcon {
+    width: 30px;
+    margin-left: 100px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    width: 600px;
+}
+
+button[type="submit"] {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+button[type="submit"] img {
+        width: 20px;
+        height: 20px;
+}
+
+.navbar-container {
+    margin-left: 5px;
+    width: 100%;
+    max-width: 505px;
+    border: 2px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.navbar-title {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    color: #000;
+    padding: 10px;
+}
+
+.navbar a {
+    display: block;
+    color: #000;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+}
+
+.image-container {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.image-container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.image-container p {
+    margin: 5px 0;
+}
+
+.image-container button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
