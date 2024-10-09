@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameWORLD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameWORLD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\css\\styleGame.css",
+      "PackagePath": "staticwebassets\\css\\styleGame.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\Destiny2TheWitchQueen.jpg",
+      "PackagePath": "staticwebassets\\images\\Destiny2TheWitchQueen.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\Diablo3BattleChest.jpg",
+      "PackagePath": "staticwebassets\\images\\Diablo3BattleChest.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\FIFA23.jpg",
+      "PackagePath": "staticwebassets\\images\\FIFA23.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\ForzaHorizon5.jpg",
+      "PackagePath": "staticwebassets\\images\\ForzaHorizon5.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\GTA5.jpg",
+      "PackagePath": "staticwebassets\\images\\GTA5.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\GameWorld.png",
+      "PackagePath": "staticwebassets\\images\\GameWorld.png"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\GodofWarRagnarok.jpg",
+      "PackagePath": "staticwebassets\\images\\GodofWarRagnarok.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\GranTurismo7.jpg",
+      "PackagePath": "staticwebassets\\images\\GranTurismo7.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\HaloInfinite.jpg",
+      "PackagePath": "staticwebassets\\images\\HaloInfinite.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\RainbowSixSiege.jpg",
+      "PackagePath": "staticwebassets\\images\\RainbowSixSiege.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\ResidentEvil7Biohazard.jpg",
+      "PackagePath": "staticwebassets\\images\\ResidentEvil7Biohazard.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\SeaofThieves.jpg",
+      "PackagePath": "staticwebassets\\images\\SeaofThieves.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\SearchIcon.png",
+      "PackagePath": "staticwebassets\\images\\SearchIcon.png"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\ShoppingBagIcon.png",
+      "PackagePath": "staticwebassets\\images\\ShoppingBagIcon.png"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\SuperMarioOdyssey.jpg",
+      "PackagePath": "staticwebassets\\images\\SuperMarioOdyssey.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\SuperSmashBros.Ultimate.jpg",
+      "PackagePath": "staticwebassets\\images\\SuperSmashBros.Ultimate.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\TheLegendofZeldaTearsoftheKingdom.jpg",
+      "PackagePath": "staticwebassets\\images\\TheLegendofZeldaTearsoftheKingdom.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\images\\avatar_user.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar_user.jpg"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\js\\LoginJS.js",
+      "PackagePath": "staticwebassets\\js\\LoginJS.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\FACULTATE\\ANUL 3 SEM 2\\PAW\\GameWORLD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GameWORLD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GameWORLD.props",
+      "PackagePath": "build\\GameWORLD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GameWORLD.props",
+      "PackagePath": "buildMultiTargeting\\GameWORLD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GameWORLD.props",
+      "PackagePath": "buildTransitive\\GameWORLD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
